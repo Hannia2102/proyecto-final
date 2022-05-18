@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(250, 249, 250);
+  }
+  h1 {
+    color: rgb(239, 127, 247);
+  }
+  p {
+      text-align: justify;
+    color: rgb(2, 2, 2);
+  }
